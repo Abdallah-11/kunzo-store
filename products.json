@@ -11,6 +11,19 @@
         "photos/kz-token-test-1.jpg"
       ],
       "created": "2026-11-27T11:56:22.119Z"
+    },
+    {
+      "slug": "pmwyxf85d",
+      "name": "اختبار توكن - حذف",
+      "price": 1,
+      "cat": "electronics",
+      "desc": "اختبار مؤقت للتحقق من التوكن الجديد",
+      "facts": [],
+      "photos": [
+        "photos/pmwyxf85d-1.jpg"
+      ],
+      "cost": null,
+      "added": "2026-11-27T11:57:13.246Z"
     }
   ]
 }
